@@ -37,5 +37,5 @@ if __name__ == "__main__":
         font.save(sys.argv[1])
         flags  = ("opentype", "dummy-dsig", "round", "apple")
         font_name = sys.argv[1].replace(".sfd",".otf")
-        font.generate(font_name, flags=flags)
+        font.generate("fonts/" + font_name, flags=flags)
         font.close()
