@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gen_glyphs
+gen_glyphs.so
+gen_glyphs.dylib
+gen_glyphs.dll
+libgen_glyphs.a
+gen_glyphs.a
+gen_glyphs.lib
+gen_glyphs-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

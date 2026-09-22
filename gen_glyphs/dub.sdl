@@ -1,0 +1,4 @@
+name "gen_glyphs"
+authors "Aravinda VK"
+license "proprietary"
+dependency "chitra" version="~>0.6.1"

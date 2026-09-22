@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"chitra": "0.6.1",
+		"qr": "1.0.7",
+		"tinyview": "0.3.1"
+	}
+}
