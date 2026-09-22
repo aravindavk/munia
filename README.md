@@ -2,9 +2,9 @@
 
 Munia Dot is an LED dot-style font named after the bird Munia.
 
-| ![Munia](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Lonchura_punctulata_(Nagarhole%2C_2004).jpg/330px-Lonchura_punctulata_(Nagarhole%2C_2004).jpg) |
-| :---: |
-| From Wikipedia https://en.wikipedia.org/wiki/Scaly-breasted_munia |
+![Munia](munia-bird.jpg)
+
+> Photo By <a href="//commons.wikimedia.org/wiki/User:Yathin_sk" title="User:Yathin sk">Yathin S Krishnappa</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24848688">Link</a> (Wikipedia Article link: https://en.wikipedia.org/wiki/Scaly-breasted_munia)
 
 The glyphs are created using the 2D graphics library [Chitra](https://chitra-2d.github.io) and then imported into the font file using the Python [FontForge](https://fontforge.org/en-US) script.
 
