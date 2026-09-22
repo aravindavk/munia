@@ -1,0 +1,13 @@
+@BASE = [zero one two three four five six seven eight nine plus hyphen asterisk slash period percent comma];
+@ALTS = [zero.ss01 one.ss01 two.ss01 three.ss01 four.ss01 five.ss01 six.ss01 seven.ss01 eight.ss01 nine.ss01 plus.ss01 hyphen.ss01 asterisk.ss01 slash.ss01 period.ss01 percent.ss01 comma.ss01];
+
+# All Alternates
+feature aalt {
+    feature ss01;
+} aalt;
+
+# Stylistic Alternates
+feature ss01 {
+    sub @BASE by @ALTS;
+} ss01;
+

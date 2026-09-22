@@ -32,7 +32,7 @@ if __name__ == "__main__":
             # glyph.width = 500
 
         # Apply the features
-        font.mergeFeature("alt.fea")
+        font.mergeFeature("featurefiles/alt.fea")
 
         font.save(sys.argv[1])
         flags  = ("opentype", "dummy-dsig", "round", "apple")
